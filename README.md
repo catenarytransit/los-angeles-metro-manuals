@@ -6,4 +6,4 @@ Our Freedom of Information Act request was filed via request `23-2144` on 10 Dec
 As stated from Los Angeles Metro:
 > Security sensitive information were redacted pursuant to California Government Code section 7922.000, which allows withholding information when the public interest served by not disclosing a record clearly outweighs the public interest served by disclosure of the record.
 
-These documents are now in the public domain.
+These documents are now in the public domain. Please credit "Catenary Maps" if you wish to republish the information.
